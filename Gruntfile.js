@@ -49,7 +49,7 @@ module.exports = function (grunt) {
     }
   });
 
-  grunt.registerTask('default', ['jshint', 'simplemocha']);
+  grunt.registerTask('default', ['jshint', 'mdlint:pass', 'simplemocha']);
 
   grunt.loadTasks('tasks');
 
