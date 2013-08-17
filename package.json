@@ -1,0 +1,25 @@
+{
+  "name": "grunt-mdlint",
+  "version": "0.0.0",
+  "description": "Runs mdlint to lint JavaScript code blocks in your project's markdown files",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "keywords": [
+    "gruntplugin",
+    "mdlint",
+    "lint",
+    "markdown"
+  ],
+  "author": "ChrisWren",
+  "license": "MIT",
+  "dependencies": {
+    "mdlint": "0.1.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.2",
+    "grunt-simple-mocha": "~0.4.0",
+    "grunt-release": "~0.5.1"
+  }
+}
