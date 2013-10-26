@@ -14,6 +14,11 @@
   ],
   "author": "ChrisWren",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisWren/grunt-mdlint.git"
+  },
+  "bugs": "https://github.com/ChrisWren/grunt-mdlint/issues/",
   "dependencies": {
     "mdlint": "0.1.0"
   },
