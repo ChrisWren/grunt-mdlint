@@ -1,6 +1,6 @@
 {
   "name": "grunt-mdlint",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Runs mdlint to lint JavaScript code blocks in your project's markdown files",
   "main": "Gruntfile.js",
   "scripts": {
