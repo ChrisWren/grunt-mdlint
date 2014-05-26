@@ -27,4 +27,6 @@ mdlint: ['*.md']
 
 # Changelog
 
+**0.0.1** - Added repo URL to package.json
+
 **0.0.0** - Initial release
